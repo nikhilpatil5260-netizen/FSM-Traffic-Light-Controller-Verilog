@@ -58,13 +58,13 @@ Signal	Description
 
 - State-Road A	-      Road B
 - 0   -	Green 	 -      Red
-- 1	    Green	         Red
-- 2	    Green 	       Red
-- 3	    Green 	       Red
-- 4	    Green 	       Red
-- 5	    Green (Wait)	 Red
-- 6	    Yellow	       Red
-- 7	    Red	           Green
+- 1	-    Green	 -     Red
+- 2	 -   Green 	  -     Red
+- 3	  -  Green 	  -     Red
+- 4	  -  Green 	  -     Red
+- 5	 -   Green (Wait)	 Red
+- 6	 -   Yellow	       Red
+- 7	 -   Red	           Green
 - 8	    Red	           Green
 - 9	    Red	           Green
 - 10	  Red	           Green
