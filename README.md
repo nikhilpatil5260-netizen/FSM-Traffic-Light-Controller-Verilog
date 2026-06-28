@@ -24,11 +24,11 @@ The design was simulated and verified using Xilinx ISE ISim.
 - Synthesizable design
 
 # Tools Used
--Verilog HDL
+- Verilog HDL
 
--Xilinx ISE Design Suite
+- Xilinx ISE Design Suite
 
--ISim Simulator
+- ISim Simulator
 
 # Inputs
 - Signal	Description
@@ -56,7 +56,7 @@ Signal	Description
 
 # FSM State Transition
 
-State	Road A	      Road B
+- State	Road A	      Road B
 - 0   	Green 	       Red
 - 1	    Green	         Red
 - 2	    Green 	       Red
