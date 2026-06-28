@@ -76,3 +76,6 @@ Signal	Description
 
 # State Graph
 <img width="1079" height="439" alt="state graph" src="https://github.com/user-attachments/assets/b46f0d90-da14-47bd-b9e2-6895756e45ab" />
+
+# Waveform
+<img width="1153" height="613" alt="Screenshot 2026-06-28 182119" src="https://github.com/user-attachments/assets/562a96c6-649a-42af-9db9-5e85adf72f7e" />
