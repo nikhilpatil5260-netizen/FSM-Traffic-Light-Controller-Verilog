@@ -56,8 +56,8 @@ Signal	Description
 
 # FSM State Transition
 
-- State	Road A	      Road B
-- 0   	Green 	       Red
+- State-Road A	-      Road B
+- 0   -	Green 	 -      Red
 - 1	    Green	         Red
 - 2	    Green 	       Red
 - 3	    Green 	       Red
