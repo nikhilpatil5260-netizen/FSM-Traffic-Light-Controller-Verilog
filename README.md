@@ -62,11 +62,11 @@ Signal	Description
 - 2	 -   Green 	  -     Red
 - 3	  -  Green 	  -     Red
 - 4	  -  Green 	  -     Red
-- 5	 -   Green (Wait)-	 Red
+- 5	 -   Green (Wait )-	 Red
 - 6	 -   Yellow	  -     Red
 - 7	 -   Red	     -      Green
 - 8	  -  Red	        -   Green
-- 9	  -  Red	    -       Green
-- 10	-  Red	     -      Green
-- 11	-  Red (Wait)-	   Green
-- 12	 - Red	       -    Yellow
+- 9	  -   Red	    -       Green
+- 10	-    Red	     -      Green
+- 11	-  Red (Wait) -	   Green
+- 12	 -  Red	       -    Yellow
