@@ -6,13 +6,21 @@ This project implements a Finite State Machine (FSM) based Traffic Light Control
 The design was simulated and verified using Xilinx ISE ISim.
 
 # Features
+
 - Finite State Machine (FSM) design
+  
 - Verilog HDL implementation
+  
 - Sensor-based traffic control
+  
 - RTL design
+  
 - Testbench verification
+  
 - Functional simulation
+  
 - Easy to modify timing
+  
 - Synthesizable design
 
 # Tools Used
