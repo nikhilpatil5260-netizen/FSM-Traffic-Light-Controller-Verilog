@@ -25,7 +25,9 @@ The design was simulated and verified using Xilinx ISE ISim.
 
 # Tools Used
 -Verilog HDL
+
 -Xilinx ISE Design Suite
+
 -ISim Simulator
 
 # Inputs
@@ -40,30 +42,31 @@ The design was simulated and verified using Xilinx ISE ISim.
 # Outputs
 Signal	Description
 
-ga	Green Light Road A
+- ga	Green Light Road A
 
-ya	Yellow Light Road A
+- ya	Yellow Light Road A
 
-ra	Red Light Road A
+- ra	Red Light Road A
 
-gb	Green Light Road B
+- gb	Green Light Road B
 
-yb	Yellow Light Road B
+- yb	Yellow Light Road B
 
-rb	Red Light Road B
+- rb	Red Light Road B
 
 # FSM State Transition
+
 State	Road A	      Road B
-0   	Green 	       Red
-1	    Green	         Red
-2	    Green 	       Red
-3	    Green 	       Red
-4	    Green 	       Red
-5	    Green (Wait)	 Red
-6	    Yellow	       Red
-7	    Red	           Green
-8	    Red	           Green
-9	    Red	           Green
-10	  Red	           Green
-11	  Red (Wait)	   Green
-12	  Red	           Yellow
+- 0   	Green 	       Red
+- 1	    Green	         Red
+- 2	    Green 	       Red
+- 3	    Green 	       Red
+- 4	    Green 	       Red
+- 5	    Green (Wait)	 Red
+- 6	    Yellow	       Red
+- 7	    Red	           Green
+- 8	    Red	           Green
+- 9	    Red	           Green
+- 10	  Red	           Green
+- 11	  Red (Wait)	   Green
+- 12	  Red	           Yellow
