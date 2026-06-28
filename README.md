@@ -29,18 +29,27 @@ The design was simulated and verified using Xilinx ISE ISim.
 -ISim Simulator
 
 # Inputs
--Signal	Description
--clk	System Clock
--sa	Vehicle Sensor on Road A
--sb	Vehicle Sensor on Road B
+- Signal	Description
+  
+- clk	System Clock
+  
+- sa	Vehicle Sensor on Road A
+  
+- sb	Vehicle Sensor on Road B
 
 # Outputs
 Signal	Description
+
 ga	Green Light Road A
+
 ya	Yellow Light Road A
+
 ra	Red Light Road A
+
 gb	Green Light Road B
+
 yb	Yellow Light Road B
+
 rb	Red Light Road B
 
 # FSM State Transition
