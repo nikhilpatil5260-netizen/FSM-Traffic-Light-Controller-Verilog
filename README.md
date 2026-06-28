@@ -70,3 +70,8 @@ Signal	Description
 - 10	-    Red	     -      Green
 - 11	-  Red (Wait) -	   Green
 - 12	 -  Red	       -    Yellow
+ 
+# Block Diagram
+<img width="617" height="419" alt="block diagram" src="https://github.com/user-attachments/assets/d23f8333-db2b-4cb0-ae78-392d85e5b894" />
+# State Graph
+<img width="1079" height="439" alt="state graph" src="https://github.com/user-attachments/assets/b46f0d90-da14-47bd-b9e2-6895756e45ab" />
